@@ -4,7 +4,7 @@
   - Podemos descargarnos versiones anteriores y trabajar en ellas
 
 - Añadimos una foto entre el texto
-   - [Paisaje-2] (paisaje-2.jpg)
+  ![Descripción de la imagen](Fotos/uno.jpg)
 
 - Añadimos un link
-   - https://github.com/lmn286/Hola-Mundo)
+   - [LMN286](https://github.com/lmn286/Hola-Mundo)
